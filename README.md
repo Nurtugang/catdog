@@ -13,3 +13,4 @@ catdog.py - основной скрипт, принимает input.json, ген
 
 Датасет и input.json генерированный с помощью этого датасета досутпен по ссылке https://drive.google.com/drive/folders/1mmy3QgpxrPi2i8rIU6EbkaV4NWw66v_W?usp=sharing
 
+Результаты(метрики) модели классификатора форматах PDF и PBIX(Power BI)
